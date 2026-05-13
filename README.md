@@ -2,10 +2,10 @@
 
 ## Análisis de conversión y toma de decisiones basada en experimentos
 
-### 📋 Introducción
+### Introducción
 Este proyecto presenta un análisis integral del embudo de conversión de usuarios y un test A/A/B para la aplicación móvil de una startup de productos alimenticios. El objetivo es identificar cuellos de botella en el recorrido del usuario y evaluar si un cambio propuesto en la tipografía (fuentes) de la aplicación impacta significativamente en el comportamiento y las tasas de conversión.
 
-### 🎯 Objetivos
+### Objetivos
 1. **Análisis del Embudo**  
    Mapear y analizar el camino de conversión del usuario para identificar puntos críticos de abandono.
 
@@ -15,7 +15,7 @@ Este proyecto presenta un análisis integral del embudo de conversión de usuari
 3. **Decisión Basada en Datos**  
    Proporcionar insights accionables para optimizar la UX y respaldar decisiones de diseño.
 
-### 📊 Descripción de los Datos
+### Descripción de los Datos
 El conjunto de datos `logs_exp_us.csv` contiene registros de interacciones de usuarios con la siguiente estructura:
 
 | Columna   | Descripción                                                           | Tipo de dato |
